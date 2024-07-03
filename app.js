@@ -68,7 +68,7 @@ const checkWinner = () => {
                 showWinner(pos1Val);
             }
         }
-    }
+    }hghchvykjbsa
 }
 
 newGame.addEventListener ("click", resetGame);
